@@ -1,0 +1,5 @@
+outs:
+- md5: a4b5dc09ee946bd5e28139d623c61aa3
+  size: 85168922
+  hash: md5
+  path: vgg16_finetuned_best.keras
